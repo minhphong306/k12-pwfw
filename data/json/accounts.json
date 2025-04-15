@@ -1,0 +1,19 @@
+{
+    "accounts": [
+        {
+            "username": "Khanh@gmail.com",
+            "password": "abc123",
+            "is_success": true
+        },
+        {
+            "username": "Khanh@gmail.com",
+            "password": "abc123",
+            "is_success": false
+        },
+        {
+            "username": "Khanh@gmail.com",
+            "password": "abc123",
+            "is_success": true
+        }
+    ]
+}
