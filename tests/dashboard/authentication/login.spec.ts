@@ -38,5 +38,5 @@ test('test error message shown on login failure', async ({ page }) => {
     // if is_success = true => validate success message
     // if is_success = false => validate error message
 
-    console.log("Hello");
+    console.log("Hello 1");
 })
