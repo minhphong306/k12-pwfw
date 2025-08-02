@@ -2,7 +2,7 @@ import { test } from '@playwright/test';
 
 
 test.beforeEach(async () => {
-    // Login
+    console.log('Test changes');
 })
 test('test 1', async ({ page }) => {
 
